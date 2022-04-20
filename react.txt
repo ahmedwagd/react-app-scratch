@@ -1,0 +1,6 @@
+
+npm i -D webpack webpack-cli webpack-dev-server
+
+npm i react react-dom
+
+npm i -D babel-loader @babel/preset-env @babel/core @babel/cli @babel/plugin-transform-runtime @babel/preset-react @babel/runtime babel-eslint 
